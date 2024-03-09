@@ -1,0 +1,28 @@
+{
+  "name": "tinhhieudqp",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính hieu của 2 số bất kỳ. Đơn giản, dễ dùng và nhẹ",
+  "main": "tong.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhquocphong/tinhhieu.git"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "keywords": [
+    "pheptru",
+    "tru",
+    "sub"
+  ],
+  "author": "DQP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhquocphong/tinhhieu/issues"
+  },
+  "homepage": "https://github.com/dhquocphong/tinhhieu#readme"
+}
